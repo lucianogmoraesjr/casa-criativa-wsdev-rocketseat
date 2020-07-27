@@ -351,3 +351,8 @@ section#ideas,
 footer {
     margin-top: 64px;
 }
+
+section#ideas .idea .content .buttons {
+    display: flex;
+    justify-content: space-between;
+}

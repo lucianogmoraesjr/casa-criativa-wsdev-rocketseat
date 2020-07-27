@@ -22,7 +22,7 @@
         <section id="ideas">
             {% for idea in ideas %}
                 <div class="idea">
-                    <img src="{{idea.img}}" alt="{{idea.title}}">
+                    <img src="{{idea.image}}" alt="{{idea.title}}">
 
                     <div class="content">
                         <h3>{{idea.title}}</h3>
@@ -30,7 +30,10 @@
                         <div class="description">
                             {{idea.description}}
                         </div>
-                        <a href="{{idea.url}}" target="_blank">Ir para a Ideia</a>
+                        <div class="buttons">
+                            <a href="{{idea.url}}" target="_blank">Ir para a Ideia</a>
+                            <a href="/ideas/delete/{{idea.id}}" onclick="return confirm('Deseja realmente excluir?')">Excluir Ideia</a>
+                        </div>
                     </div>
                 </div>
             {% endfor %}
