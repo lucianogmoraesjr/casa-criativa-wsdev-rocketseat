@@ -59,3 +59,7 @@ Acesse a aplicação no seu browser em: localhost:3000
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+Projeto ministrado por [Mayk Brito](https://github.com/maykbrito), instrutor na [Rocketseat](https://rocketseat.com.br/)
