@@ -62,4 +62,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Projeto ministrado por [Mayk Brito](https://github.com/maykbrito), instrutor na [Rocketseat](https://rocketseat.com.br/)
+Projeto ministrado por [Mayk Brito](https://github.com/maykbrito), instrutor na [Rocketseat](https://rocketseat.com.br/).
